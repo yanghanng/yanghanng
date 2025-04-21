@@ -22,13 +22,7 @@ I'm **Yang Han**, a mechanical engineering graduate based in London. Currently, 
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanghanng/yanghanng/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanghanng/yanghanng/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yanghanng/yanghanng/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/yanghanng/yanghanng/output/snake.svg" alt="Snake animation" />
 
 ###
 
