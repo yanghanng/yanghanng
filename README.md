@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**yanghanng/yanghanng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yang Han**, a mechanical engineering graduate based in London. Currently, I am focused on enhancing my skills in Python and learning from open-source projects. I enjoy tackling complex problems and learn from the tech community.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+py,vscode,postgres,github
+
+## Recent Activity
+
+- Pushed new changes to [Portfolio_Projects](https://github.com/yanghanng/Portfolio_Projects)  
+- Created a new repository [yanghanng](https://github.com/yanghanng/yanghanng)  
+- Updated README.md in [Quant-Finance-Journey](https://github.com/yanghanng/Quant-Finance-Journey)  
+- Deleted unnecessary directories from [Quant-Finance-Journey](https://github.com/yanghanng/Quant-Finance-Journey)  
+- Opened an issue on [quant-finance-journey](https://github.com/ynaghan30/quant-finance-journey/issues/1)
