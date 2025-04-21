@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I'm **Yang Han**, a mechanical engineering graduate based in London. Currently, I am focused on enhancing my skills in Python and learning from open-source projects. I enjoy tackling complex problems and learn from the tech community.
-
+##
 ## Skills & Technologies
 
 py,vscode,postgres,github
